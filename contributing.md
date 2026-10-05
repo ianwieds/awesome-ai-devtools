@@ -4,13 +4,13 @@ Thanks for helping keep this list useful. Please read these rules before you ope
 
 ## What belongs here
 
-Replace this paragraph with the list's scope: what it covers, and which nearby projects belong only when the topic is central to what they do.
+This list covers AI tools a developer uses to write, read, test or ship code: coding agents for the terminal, editor and cloud, AI editors and extensions, code review, testing and debugging, code context and docs tools, and the workspaces and specs that agents work in. A general LLM framework, a chat app or a prompt-to-app builder belongs only when helping developers work on code is central to what it does.
 
 An entry must be:
 
 - **Public:** a repository or page anyone can open without signing in.
 - **Documented:** a README or docs page that explains what it does and how to use it.
-- **Maintained:** for a repository, <!-- awesome:inactive -->not archived and not marked deprecated by its owner<!-- /awesome:inactive -->.
+- **Maintained:** for a repository, <!-- awesome:inactive -->not archived, not marked deprecated by its owner, and with a commit in the last 12 months<!-- /awesome:inactive -->.
 - **Established:** a GitHub project has <!-- awesome:stars -->at least 10 stars<!-- /awesome:stars --> when it is submitted.
 - **Working:** every link resolves.
 
