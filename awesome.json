@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "AI Devtools",
+  "repo": "ianwieds/awesome-ai-devtools",
+  "tagline": "AI tools for working developers: coding agents, AI editors, terminal agents, code completion, testing, debugging, docs and code search.",
+  "scope": "It is an AI tool a developer uses to write, read, test or ship code.",
+  "accent": "38BDF8",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: a robot arm types on a keyboard while lines of code fill an editor, then presses enter and a terminal runs the tests until its lamp turns from amber to green."
 }
