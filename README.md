@@ -210,6 +210,7 @@ AI devtools are the agents, editors and assistants that help a developer write, 
 - [Sculptor](https://github.com/imbue-ai/sculptor) - Desktop app from Imbue that runs coding agents in parallel.
 - [Superset](https://github.com/superset-sh/superset) - Workspace that runs CLI agents with terminals, code review and browser previews.
 - [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board that hands tasks to coding agents and collects their work for review.
+- [YYLO](https://github.com/yylo-dev/yylo) - CLI that runs coding agents in parallel worktrees and merges their work through a task ledger.
 
 ### Specs, rules and protocols
 
