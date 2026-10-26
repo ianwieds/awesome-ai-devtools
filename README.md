@@ -218,6 +218,7 @@ AI devtools are the agents, editors and assistants that help a developer write, 
 - [AGENTS.md](https://agents.md) - Open format for a README that tells coding agents how to work in a repository.
 - [Beads](https://github.com/gastownhall/beads) - Dependency-aware issue tracker that gives coding agents memory across long tasks.
 - [BMAD Method](https://github.com/bmad-code-org/BMAD-METHOD) - Agile method with role-based agents for planning and building software with AI.
+- [HIVE.md](https://thehivecode.ai/learn/hive-md) - File at a repo's root that tells people and coding agents what the project is and how to run it.
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven workflow where you and the agent agree on a spec before any code.
 - [Ruler](https://github.com/intellectronica/ruler) - Applies one set of rules to every coding agent's config files.
 - [Spec Kit](https://github.com/github/spec-kit) - GitHub's toolkit for spec-driven development with coding agents.
