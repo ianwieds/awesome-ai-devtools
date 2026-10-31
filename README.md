@@ -156,6 +156,7 @@ AI devtools are the agents, editors and assistants that help a developer write, 
 
 ## Testing and debugging
 
+- [agent-qa](https://vostride.com) - Natural-language web and mobile QA with memidex memory and validated self-improvement.
 - [Checksum](https://checksum.ai) - Generates and maintains Playwright end-to-end tests in your repository.
 - [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Gives coding agents Chrome DevTools for debugging, network checks and performance traces.
 - [Codeflash](https://github.com/codeflash-ai/codeflash) - Finds faster versions of Python code and checks that they behave the same.
