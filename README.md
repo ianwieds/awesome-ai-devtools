@@ -250,10 +250,10 @@ AI devtools are the agents, editors and assistants that help a developer write, 
 - [Awesome Copilot](https://github.com/github/awesome-copilot) - GitHub's collection of instructions, agents and skills for Copilot.
 - [Awesome Cursor Rules](https://github.com/PatrickJS/awesome-cursorrules) - Collection of rule files for the Cursor editor.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
