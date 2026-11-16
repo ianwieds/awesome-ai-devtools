@@ -208,6 +208,7 @@ AI devtools are the agents, editors and assistants that help a developer write, 
 - [Nimbalyst](https://github.com/nimbalyst/nimbalyst) - Visual workspace that runs coding agents in worktrees, with diff review and a kanban.
 - [opcode](https://github.com/winfunc/opcode) - Desktop GUI for Claude Code sessions, custom agents and usage tracking.
 - [Sculptor](https://github.com/imbue-ai/sculptor) - Desktop app from Imbue that runs coding agents in parallel.
+- [Sillage](https://github.com/MarlBurroW/sillage) - Web UI that drives Claude Code and Codex CLI sessions on your own machine from a phone.
 - [Superset](https://github.com/superset-sh/superset) - Workspace that runs CLI agents with terminals, code review and browser previews.
 - [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board that hands tasks to coding agents and collects their work for review.
 
